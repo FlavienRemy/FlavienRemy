@@ -49,6 +49,5 @@ I’m more comfortable working in French, but I can handle English for reading d
 
 Whether you’re looking to collaborate on an exciting project, discuss tech trends, or just chat about cinema and travels, feel free to reach out!
 
-- 📧 Email: [remy.flavien@gmail.com](mailto:remy.flavien@gmail.com)
 - 💼 LinkedIn: [Flavien Remy](https://www.linkedin.com/in/flavien-remy-707229151/)
 - 🐙 GitLab: [github.com/yourusername](https://gitlab.com/FlavienRemy)
