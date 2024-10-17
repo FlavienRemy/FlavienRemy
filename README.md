@@ -4,7 +4,7 @@ I'm **Flavien**, a 34-year-old passionate developer, always on the lookout for n
 ## Where am I?
 
 📍 **Didenheim**, France (near Mulhouse)  
-💻 Fully Remote since 2019  
+💻 Fully Remote since 2020  
 
 ## About Me
 
