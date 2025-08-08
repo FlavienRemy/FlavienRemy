@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Flavien**, a 34-year-old passionate developer, always on the lookout for new technologies and eager to explore innovative solutions.
+I’m **Flavien**, a 35-year-old passionate developer, always on the lookout for new technologies and eager to explore innovative solutions. Married and a proud new dad, I’m embracing this exciting chapter of life with the same curiosity and drive I bring to my code.
 
 ## Where am I?
 
@@ -8,8 +8,11 @@ I'm **Flavien**, a 34-year-old passionate developer, always on the lookout for n
 
 ## About Me
 
-💼 **Fullstack Developer over 4 years of experience with a focus on SaaS and e-commerce solutions** <br/>
-I’ve spent the last few years working on a variety of **SaaS platforms** and **e-commerce tools**, especially in the logistics and second-hand sectors. My expertise lies in integrating **payment service providers** (like **Stripe**, **Adyen**, and **PayPal**), developing scalable **API-driven backend solutions**, and building systems that power efficient warehouse management. From stock management to order preparation, I thrive on solving complex challenges with clean, maintainable code while ensuring seamless integration through **RESTful APIs**.
+💼 **Fullstack Developer & Technical Lead with 4+ years of experience in SaaS and e-commerce solutions** <br/>
+Currently acting as **Technical Lead**, guiding a team of 3 freelance developers through task allocation, code reviews, technical mentoring, and product coordination.
+I specialize in building and evolving **SaaS platforms** and e-commerce solutions in the logistics, rental, and second-hand sectors. My work includes integrating **payment providers** (Stripe, Adyen, Checkout, PayPal), implementing **SSO authentication** (Azure AD, Cultura, Decathlon – OAuth/SAML), and enhancing search experiences with Algolia.
+On the backend, I design scalable API-driven architectures in **NestJS** and **Symfony**, while on the frontend I deliver intuitive **ReactJS** applications. I also set up and maintain **CI/CD pipelines** (deploy scripts) and ensure quality through unit, integration, and **functional tests** (PHPUnit, Jest, Cypress).
+Beyond coding, I act as a cross-functional technical point of contact for product, finance, and support teams — delivering custom data exports, improving UX, and driving technical decisions that make a difference.
 
 💻 **Tech-Savvy and Versatile**  
 My work spans both backend and frontend technologies. I enjoy architecting systems with **Node.js**, and **Symfony**, but I also appreciate the dynamism of **ReactJS** and **TypeScript** for frontend development. Whether I’m optimizing an API or building out an e-commerce flow, I always focus on delivering a smooth user experience.
@@ -23,21 +26,24 @@ I’m more comfortable working in French, but I can handle English for reading d
 ## My Tech Stack
 
 ### **Backend**  
-- Symfony, Sylius, Node.js, NestJs  
+- Symfony, Sylius, Node.js, NestJs
 - API Platform, MySQL, PostgreSQL  
-- Stripe, Adyen, PayPal
-- PHPUnit
+- Stripe, Adyen, Checkout, PayPal
+- PHPUnit, Jest
 
 ### **Frontend**  
 - ReactJS, TypeScript, NextJS
 - Material UI, Cypress
-- React Native (self-taught) 
+- React Native (self-taught)
+
+### **No-code skills**
+- n8n
+- make
 
 ### **Other Tools**  
 - Algolia
 - Agile (Kanban with 2-week sprints)  
-- CI/CD Automation  
-- Cloud Deployments  
+- CI/CD Automation 
 
 ## Fun Facts
 
