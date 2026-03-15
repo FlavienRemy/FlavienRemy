@@ -70,9 +70,9 @@ contribute in international projects.
 - OVH, Cloudflare
 
 ## Fun Facts
-🎬 **Cinema** : Huge fan of Korean thrillers and indie films that break the mold.
+🎬 **Cinema** : Huge fan of Korean thrillers and indie films that break the mold. </br>
 🎲 **Board Games** : Love strategy and cooperative games, though dad life has cut into
-the game nights lately.
+the game nights lately.</br>
 ✈️ **Travel** : Europe, South Korea, Canada, Morocco — and Japan 🇯🇵 is next on the
 list.
 
